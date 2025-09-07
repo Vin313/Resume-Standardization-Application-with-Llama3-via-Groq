@@ -2,6 +2,8 @@
 Resume Standardization Application with Llama3 via Groq API
 
 A Generative AI-powered application that converts resumes in various formats (PDF/DOCX) into a standardized format using Llama3 through Groq API.
+<img width="1920" height="890" alt="image" src="https://github.com/user-attachments/assets/2eafc068-a62f-40ba-9ffc-2e7bcdbe8667" />
+
 
 # Features
 ### Multi-format Support: Processes both PDF and DOCX resume files
